@@ -7,7 +7,7 @@ Comecei esse trabalho por não encontrar uma fonte pública e de fácil acesso a
 
 Fique à vontade para contribuir.
 
---
+----
 
 Collecting data to analyze the evolution of the virus by state.
 
