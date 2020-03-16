@@ -16,7 +16,11 @@ I started this work as I could not find a public and easy access source to the c
 
 Feel free to contribute.
 
-![Linear Chart](https://raw.githubusercontent.com/elhenrico/covid19-Brazil-timeseries/dev/docs/linear.png)
+### Confirmed Cases (linear)
+![Confirmed Linear Chart](/docs/linear.png)
+
+### New Confirmed Cases (linear)
+![New Linear Chart](/docs/linear-new.png)
 
 fonte/source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/)
 
