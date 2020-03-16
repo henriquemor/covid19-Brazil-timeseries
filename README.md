@@ -1,5 +1,6 @@
 # COVID-19 Brazil - time series
 
+<kbd>Latest: 16/03/2020 15:50 (Brasilia Standard Time)</kbd>
 
 Coletando dados para análise da evolução do vírus por estado.
 
