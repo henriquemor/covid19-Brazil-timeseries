@@ -9,7 +9,10 @@
 ![New Linear Chart](/docs/linear-new.png)
 
 fonte/source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/)
+
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
+
+----
 
 Coletando dados para análise da evolução do vírus por estado.
 
