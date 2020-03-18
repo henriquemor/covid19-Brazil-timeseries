@@ -18,7 +18,9 @@ Coletando dados para análise da evolução do vírus por estado.
 
 Comecei esse trabalho por não encontrar uma fonte pública e de fácil acesso ao histórico de casos no país.
 
-Fique à vontade para contribuir.
+Dados coletados manualmente das comunicações oficiais do [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/).
+
+Sinta-se livre para sugerir melhorias ou contribuir.
 
 ----
 
@@ -26,7 +28,9 @@ Collecting data to analyze the evolution of the virus by state.
 
 I started this work as I could not find a public and easy access source to the case history in the country.
 
-Feel free to contribute.
+Data collected manually from the official communications of the [Brazilian Ministry of Health](http://plataforma.saude.gov.br/novocoronavirus/).
+
+Feel free to suggest improvements or contribute.
 
 
 
