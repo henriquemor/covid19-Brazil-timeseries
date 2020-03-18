@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 17/03/2020 18:10 (Brasilia Standard Time)</kbd>
+<kbd>Latest: 18/03/2020 20:00 (Brasilia Standard Time)</kbd>
 
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/linear.png)
