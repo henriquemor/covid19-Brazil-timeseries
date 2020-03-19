@@ -36,8 +36,8 @@ Feel free to suggest improvements or contribute.
 ----
 
 Outros repositórios relevantes:
-. [EticaAi](https://github.com/EticaAI/coronavirus-cplp) - Referências e ferramentas a respeito do covid-19 em países de língua portuguesa
-. [samsepio11](https://samsepiol1.github.io/) - Painel com casos e informações do Rio Grande do Norte (RN)
+- [EticaAi](https://github.com/EticaAI/coronavirus-cplp) - Ferramentas e referências a respeito do covid-19 em países de língua portuguesa
+- [samsepio11](https://samsepiol1.github.io/) - Painel com casos e informações do Rio Grande do Norte (RN)
 
 
 <kbd>Corona</kbd> <kbd>Virus</kbd> <kbd>Brasil</kbd> <kbd>Tabela</kbd> <kbd>Casos</kbd> <kbd>COVID-19</kbd>
