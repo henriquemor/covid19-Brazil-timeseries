@@ -2,16 +2,16 @@
 
 <kbd>Latest: 22/03/2020 16:00 (Brasilia Standard Time)</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
 
-### Confirmed Cases (linear)
+### Confirmed Cases (linear) [[link to log chart](/docs/confirmed-log.png)]
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
 
-### New Confirmed Cases (linear)
+### New Confirmed Cases (linear) [[link to log chart](/docs/confirmed-new-log.png)]
 ![New Linear Chart](/docs/confirmed-new-linear.png)
 
-### Deaths (linear)
+### Deaths (linear) [[link to log chart](/docs/deaths-log.png)]
 ![New Linear Chart](/docs/deaths-linear.png)
 
-### New Deaths (linear)
+### New Deaths (linear) [[link to log chart](/docs/deaths-new-log.png)]
 ![New Linear Chart](/docs/deaths-new-linear.png)
 
 ##### * log charts on docs folder / gráficos em log na pasta docs 
