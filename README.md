@@ -1,9 +1,12 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 23/03/2020</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
+<kbd>Latest: 25/03/2020</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
 
-### Confirmed Cases (linear) [[link to log chart](/docs/confirmed-log.png)]
+### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
+
+### Confirmed Cases (log) 
+![Confirmed Linear Chart](/docs/confirmed-log.png)
 
 ### New Confirmed Cases (linear) [[link to log chart](/docs/confirmed-new-log.png)]
 ![New Linear Chart](/docs/confirmed-new-linear.png)
