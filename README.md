@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 25/03/2020</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
+<kbd>Latest: 26/03/2020</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
 
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
@@ -54,6 +54,7 @@ Feel free to suggest improvements or contribute.
 ----
 
 Outros repositórios relevantes:
+- [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/) - Painel com informações detalhadas da situação no Rio de Janeiro, com faixas etárias
 - [EticaAi](https://github.com/EticaAI/coronavirus-cplp) - Ferramentas e referências a respeito do covid-19 em países de língua portuguesa
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
 - [belisards](https://github.com/belisards/coronabr) - Extrator de dados históricos
