@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 26/03/2020</kbd> source: [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/) official announcements
+<kbd>Latest: 27/03/2020 17:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
@@ -32,7 +32,7 @@ No momento a plataforma do governo passou a disponibilizar esse histórico atrav
 
 Mais abaixo alguns links para outros repositórios similares.
 
-Dados coletados manualmente das comunicações oficiais do [Ministério da Saúde](http://plataforma.saude.gov.br/novocoronavirus/).
+Dados coletados manualmente das comunicações oficiais do [Ministério da Saúde](https://covid.saude.gov.br/).
 
 Sinta-se livre para sugerir melhorias ou contribuir.
 
@@ -46,7 +46,7 @@ At the moment, the government website started to make this history available thr
 
 Below are some links(in portuguese) to other similar/relevant repositories.
 
-Data collected manually from the official communications of the [Brazilian Ministry of Health](http://plataforma.saude.gov.br/novocoronavirus/).
+Data collected manually from the official communications of the [Brazilian Ministry of Health](https://covid.saude.gov.br/).
 
 Feel free to suggest improvements or contribute.
 
@@ -54,7 +54,9 @@ Feel free to suggest improvements or contribute.
 ----
 
 Outros repositórios relevantes:
-- [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/) - Painel com informações detalhadas da situação no Rio de Janeiro, com faixas etárias
+- [Turicas](https://github.com/turicas/covid19-br) - Dados por município
+- [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/)
+- Painel com informações detalhadas da situação no Rio de Janeiro, com faixas etárias
 - [EticaAi](https://github.com/EticaAI/coronavirus-cplp) - Ferramentas e referências a respeito do covid-19 em países de língua portuguesa
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
 - [belisards](https://github.com/belisards/coronabr) - Extrator de dados históricos
