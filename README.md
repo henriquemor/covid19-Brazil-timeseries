@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 29/03/2020 16:40 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
+<kbd>Latest: 30/03/2020 17:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
@@ -53,7 +53,8 @@ Feel free to suggest improvements or contribute.
 
 ----
 
-Outros repositórios relevantes:
+Outros repositórios ou links relevantes:
+- [Financial Times](https://www.ft.com/coronavirus-latest) - Gráficos com comparações entre países e recuperados
 - [Turicas](https://github.com/turicas/covid19-br) - Dados por município
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
 - [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/)
