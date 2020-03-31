@@ -2,6 +2,8 @@
 
 <kbd>Latest: 30/03/2020 17:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
+[repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
+
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
 
@@ -19,8 +21,7 @@
 
 ##### * log charts on docs folder / gráficos em log na pasta docs 
 
-
-[repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
+**Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui.**
 
 ----
 
@@ -53,12 +54,14 @@ Feel free to suggest improvements or contribute.
 
 ----
 
+
 Outros repositórios ou links relevantes:
 - [Financial Times](https://www.ft.com/coronavirus-latest) - Gráficos com comparações entre países e recuperados
 - [Turicas](https://github.com/turicas/covid19-br) - Dados por município
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
 - [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/)
 - Painel com informações detalhadas da situação no Rio de Janeiro, com faixas etárias
+
 
 
 <kbd>Corona</kbd> <kbd>Virus</kbd> <kbd>Brasil</kbd> <kbd>Tabela</kbd> <kbd>Casos</kbd> <kbd>COVID-19</kbd>
