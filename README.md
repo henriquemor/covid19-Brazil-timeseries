@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 01/04/2020 17:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
+<kbd>Latest: 02/04/2020 16:50 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
@@ -62,6 +62,7 @@ Outros repositórios ou links relevantes:
 - [Turicas](https://github.com/turicas/covid19-br) - Dados por município
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
 - [Painel Rio Covid-19](https://experience.arcgis.com/experience/38efc69787a346959c931568bd9e2cc4/) - Painel com informações detalhadas da situação no Rio de Janeiro, com faixas etárias
+- [covid19db](https://covid19db.github.io/data.html) - Global DB in the works
 
 
 
