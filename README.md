@@ -58,6 +58,7 @@ Feel free to suggest improvements or contribute.
 
 Outros repositórios ou links relevantes:
 - [open-covid-19](https://github.com/open-covid-19/data) - Projeto de mapeamento global e regional dos dados ([explorer](https://open-covid-19.github.io/explorer/))
+- [DataScienceResearchPeru](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) - Iniciativa de integrar os dados da América Latina no modelo time series (precisando de voluntários)
 - [Financial Times](https://www.ft.com/coronavirus-latest) - Gráficos com comparações entre países e recuperados
 - [Turicas](https://github.com/turicas/covid19-br) - Dados por município
 - [wesleycota](https://labs.wesleycota.com/sarscov2/br/#) - Painel com fontes além do Ministério
