@@ -1,11 +1,14 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 10/04/2020 17:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
+<kbd>Latest: 11/04/2020 18:00 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
-**Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui.**
+**Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui.
+This data is on public domain.**
 
+
+Charts might be delayed. See the latest [on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing).
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
 
