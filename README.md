@@ -1,6 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 15/04/2020 17:30 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
+<kbd>Latest: 16/04/2020 15:30 (Brasilia Stardard Time)</kbd> source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements
 
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
