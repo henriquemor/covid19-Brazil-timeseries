@@ -4,12 +4,13 @@
 
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
-** This data can be freely used, re-used and redistributed by anyone. I'll be happy to know what you create with it. **
+#### Public domain and open-data
+This data can be freely used, re-used and redistributed by anyone. I'll be happy to know what you create with it.
 
-** Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui. **
+*Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui.*
 
 
-Charts might be delayed. See the latest [on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing).
+Chart images below might be delayed. See the latest [on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing).
 ### Confirmed Cases (linear)
 ![Confirmed Linear Chart](/docs/confirmed-linear.png)
 
