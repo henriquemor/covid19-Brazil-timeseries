@@ -13,23 +13,21 @@ This data can be freely used, re-used and redistributed by anyone. I'll be happy
 
 
 Chart images below might be delayed. See the latest [on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing).
-### Confirmed Cases (linear)
-![Confirmed Linear Chart](/docs/confirmed-linear.png)
+### Confirmed Cases (linear / log)
+<img src="/docs/confirmed-linear.png" align="left" width="47%"/> 
+<img src="/docs/confirmed-log.png" width="47%"/>
 
-### Confirmed Cases (log) 
-![Confirmed Linear Chart](/docs/confirmed-log.png)
+### Deaths (linear / log)
+<img src="/docs/deaths-linear.png" align="left" width="47%"/> 
+<img src="/docs/deaths-log.png" width="47%"/>
 
-### New Confirmed Cases (linear) [[link to log chart](/docs/confirmed-new-log.png)]
-![New Linear Chart](/docs/confirmed-new-linear.png)
+### New Confirmed Cases (linear / log)
+<img src="/docs/confirmed-new-linear.png" align="left" width="47%"/> 
+<img src="/docs/confirmed-new-log.png" width="47%"/>
 
-### Deaths (linear) [[link to log chart](/docs/deaths-log.png)]
-![New Linear Chart](/docs/deaths-linear.png)
-
-### New Deaths (linear) [[link to log chart](/docs/deaths-new-log.png)]
-![New Linear Chart](/docs/deaths-new-linear.png)
-
-##### * log charts on docs folder / gráficos em log na pasta docs 
-
+### New Deaths (linear / log)
+<img src="/docs/deaths-new-linear.png" align="left" width="47%"/> 
+<img src="/docs/deaths-new-log.png" width="47%"/>
 
 ----
 
