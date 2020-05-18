@@ -24,16 +24,16 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Download confirmed
-      run: curl –o confirmed-cases.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed
+      run: curl –o "confirmed-cases.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed"
       
     - name: Download confirmed-new
-      run: curl –o confirmed-new.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed-new
+      run: curl –o "confirmed-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed-new"
       
     - name: Download deaths
-      run: curl –o deaths.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths
+      run: curl –o "deaths.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths"
       
     - name: Download deaths-new
-      run: curl –o deaths-new.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths-new
+      run: curl –o "deaths-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths-new"
     
     - name: Commit and push  
       run: |
