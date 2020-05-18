@@ -34,16 +34,13 @@ jobs:
       
     - name: Download deaths-new
       run: curl –o deaths-new.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths-new
-      
-    - name: Commit files
+    
+    - name: Commit and push  
       run: |
-        git remote set-url origin ${{ secrets.ssh }}
-        git config --local user.name "Henrique"
-        git status
-        git add .
-        git commit -m "chore: Update data"
-    - name: Push changes
-      run: git push origin HEAD:master
+          git config --global user.name 'Henrique'
+          git config --global user.email 'elhenrico@users.noreply.github.com'
+          git commit -am "chore: Update data"
+          git push
       
 #     # Runs a set of commands using the runners shell
 #     - name: Run a multi-line script
