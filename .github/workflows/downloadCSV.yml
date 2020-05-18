@@ -1,0 +1,52 @@
+# This is a basic workflow to help you get started with Actions
+
+name: downloadcsv
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master, dev, actions ]
+  pull_request:
+    branches: [ master, dev, actions ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+  
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+
+    # Runs a single command using the runners shell
+    - name: Download confirmed
+      run: curl –o confirmed-cases.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed
+      
+    - name: Download confirmed-new
+      run: curl –o confirmed-new.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=confirmed-new
+      
+    - name: Download deaths
+      run: curl –o deaths.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths
+      
+    - name: Download deaths-new
+      run: curl –o deaths-new.csv https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/gviz/tq?tqx=out:csv&sheet=deaths-new
+      
+    - name: Commit files
+      run: |
+        git remote set-url origin ${{ secrets.ssh }}
+        git config --local user.name "Henrique"
+        git status
+        git add .
+        git commit -m "chore: Update data"
+    - name: Push changes
+      run: git push origin HEAD:master
+      
+#     # Runs a set of commands using the runners shell
+#     - name: Run a multi-line script
+#       run: |
+#         echo Add other actions to build,
+#         echo test, and deploy your project.
