@@ -1,7 +1,6 @@
 # COVID-19 Brazil - time series data
 
-<kbd>Latest: 18/05/2020 19:40 (Brasilia Stardard Time)</kbd>\
-source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements\
+Data source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements\
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
 #### Public domain and open-data
@@ -37,7 +36,7 @@ No momento a plataforma do governo passou a disponibilizar esse histórico atrav
 
 Mais abaixo alguns links para outros repositórios similares.
 
-Dados coletados manualmente das comunicações oficiais do [Ministério da Saúde](https://covid.saude.gov.br/).
+Dados coletados manualmente (agora com a ajuda de alguns scripts) das comunicações oficiais do [Ministério da Saúde](https://covid.saude.gov.br/).
 
 Sinta-se livre para sugerir melhorias ou contribuir.
 
@@ -51,7 +50,7 @@ At the moment, the government website started to make this history available thr
 
 Below are some links(in portuguese) to other similar/relevant repositories.
 
-Data collected manually from the official communications of the [Brazilian Ministry of Health](https://covid.saude.gov.br/).
+Data collected manually (now with the help of some scripts) from the official communications of the [Brazilian Ministry of Health](https://covid.saude.gov.br/).
 
 Feel free to suggest improvements or contribute.
 
