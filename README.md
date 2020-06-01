@@ -3,10 +3,10 @@
 Data source: [Ministério da Saúde](https://covid.saude.gov.br/) official announcements\
 [repo data on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing)
 
-#### Public domain and open-data
-This data can be freely used, re-used and redistributed by anyone. I'll be happy to know what you create with it.
+#### Public domain (CC0) and open-data
+This data can be freely used, re-used and redistributed by anyone. I'll be happy to know what you create with it (you can notify me by opening an issue).
 
-*Os dados deste repositório são de domínio público. Use como quiser. Se construir algo interessante, avise criando uma nova issue para que eu possa mencionar por aqui.*
+*Os dados deste repositório são de domínio público. Use como quiser. Ficarei feliz em saber o que você construiu a partir disso (você pode me avisar abrindo uma issue).*
 
 
 Chart images below might be delayed. See the latest [on google sheets](https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/edit?usp=sharing).
