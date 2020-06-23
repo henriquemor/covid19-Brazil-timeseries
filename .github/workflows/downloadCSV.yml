@@ -39,7 +39,7 @@ jobs:
       run: |
           git config --global user.name 'Henrique'
           git config --global user.email 'elhenrico@users.noreply.github.com'
-          git commit -am "chore: Update data (auto)"
+          git commit -am "chore: Update data from sheets"
           git push
       
 #     # Runs a set of commands using the runners shell
