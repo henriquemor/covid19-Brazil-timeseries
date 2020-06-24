@@ -40,6 +40,7 @@ jobs:
           git config --global user.name 'Henrique'
           git config --global user.email 'elhenrico@users.noreply.github.com'
           git checkout -b update
+          git push --set-upstream origin update
           git commit -am "chore: Update data from sheets"
           git push
       
