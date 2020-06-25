@@ -26,7 +26,7 @@ jobs:
       run: |
           git config --global user.name 'Henrique'
           git config --global user.email 'elhenrico@users.noreply.github.com'
-          git checkout -b update
+          git branch --set-upstream-to=origin/update update
           git pull
 
     # Runs a single command using the runners shell
