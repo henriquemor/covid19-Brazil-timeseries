@@ -32,16 +32,16 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Download confirmed
-      run: curl -oL "confirmed-cases.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=0"
+      run: curl  -L -o "confirmed-cases.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=0"
       
     - name: Download confirmed-new
-      run: curl -oL "confirmed-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=1183704467"
+      run: curl -L -o "confirmed-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=1183704467"
       
     - name: Download deaths
-      run: curl -oL "deaths.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=448022410"
+      run: curl -o "deaths.csv" -L "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=448022410"
       
     - name: Download deaths-new
-      run: curl -oL "deaths-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=535242668"
+      run: curl -o "deaths-new.csv" -L "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=535242668"
     
     - name: Commit and push  
       run: |
