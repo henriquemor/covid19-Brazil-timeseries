@@ -21,6 +21,14 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+    
+    - name: Setup branch  
+      run: |
+          git config --global user.name 'Henrique'
+          git config --global user.email 'elhenrico@users.noreply.github.com'
+          git checkout -b update
+          git push --set-upstream origin update
+          git pull
 
     # Runs a single command using the runners shell
     - name: Download confirmed
@@ -37,10 +45,6 @@ jobs:
     
     - name: Commit and push  
       run: |
-          git config --global user.name 'Henrique'
-          git config --global user.email 'elhenrico@users.noreply.github.com'
-          git checkout -b update
-          git push --set-upstream origin update
           git commit -am "chore: Update data from sheets"
           git push
       
