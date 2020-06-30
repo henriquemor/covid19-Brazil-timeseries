@@ -27,8 +27,7 @@ jobs:
           git config --global user.name 'Henrique'
           git config --global user.email 'elhenrico@users.noreply.github.com'
           git fetch
-          git checkout update
-          git pull
+        
 
     # Runs a single command using the runners shell
     - name: Download confirmed
