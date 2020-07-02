@@ -42,6 +42,18 @@ jobs:
     - name: Download deaths-new
       run: curl -o "deaths-new.csv" -L "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=535242668"
     
+    - name: Download transposed confirmed
+      run: curl  -L -o "transp-confirmed.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=675383002"
+      
+    - name: Download transposed confirmed-new
+      run: curl -L -o "transp-confirmed-new.csv" "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=303623101"
+      
+    - name: Download transposed deaths
+      run: curl -o "transp-deaths.csv" -L "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=1687199264"
+      
+    - name: Download transposed deaths-new
+      run: curl -o "transp-deaths-new.csv" -L "https://docs.google.com/spreadsheets/d/1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ/export?format=csv&id=1L1CnyeKA8ZJprzFCa3ZiRIzcP44mahmcG4M_hnlbMFQ&gid=563949836"
+    
     - name: Commit and push  
       run: |
           git commit -am "chore: Update data from sheets"
