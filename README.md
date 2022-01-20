@@ -1,9 +1,9 @@
 # COVID-19 Brazil - time series data (deprecated)
 
-This repository data goes until **9 december 2021**, as a hacker attack brought down government websites for over a week. As other similar projects emerged and are more active to keep up with the constant breaking changes from the gathered data, this one will be deprecated. Mar 11, 2020 - Dec 9 2021 (638 days of data)
+This repository data goes until **9 december 2021**, as a hacker attack brought down government websites for over a month. As other similar projects emerged and are more active to keep up with the constant breaking changes from the gathered data, this one will be deprecated. Mar 11, 2020 - Dec 9 2021 (638 days of data)
 
 
-### This is a tribute to all who have suffered from this plague and a reminder of the absurd incompetence and criminal negligence of the current government when it comes to managing this crisis.
+### This is a tribute to all who have suffered from this pandemic and a reminder of the absurd incompetence and criminal negligence of the current government when it comes to managing this crisis.
 
 
 
